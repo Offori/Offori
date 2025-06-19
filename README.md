@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Offori Koffi
 
-🎓 **AI Engineer | Developer | Team Coordinator | Bilingual (French & English)**  
+🎓 **A passionate AI Engineer | Developer | Team Coordinator | Bilingual (French & English)**  
 📍 Based in Abidjan, Côte d'Ivoire  
 💼 Passionate about AI, frontend development, data analysis, and social impact projects.
 
