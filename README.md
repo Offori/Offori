@@ -1,16 +1,83 @@
-## Hi there 👋
+## Hi there 👋 I'm Offori Koffi
 
-<!--
-**Offori/Offori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **AI Engineer | Developer | Team Coordinator | Bilingual (French & English)**  
+📍 Based in Abidjan, Côte d'Ivoire  
+💼 Passionate about AI, frontend development, data analysis, and social impact projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I am a results-oriented professional with experience in:
+
+- 🧠 Applied Artificial Intelligence (MSc, Parul University – 2022–2024)
+- 💻 Software and Web Development (React.js, Python)
+- 🧾 Office and Stock Management (Nanawax, Shopspeed)
+- 🤝 Team coordination, report writing, and planning
+
+I thrive in multidisciplinary environments where I can bridge technology, creativity, and leadership. I'm always open to collaboration, innovation, and positive impact.
+
+---
+
+### 👨‍💻 Projects & Experience
+
+- 🧑‍🎨 **Web Developer Intern @ U&I Interior Design (India)**  
+  → Rebuilt client cost estimation app using **React.js**  
+  → Enhanced productivity through modern UI and close collaboration with designers
+
+- 🏪 **Assistant in Stock & Cash Management @ Nanawax (Ivory Coast)**  
+  → Trained on **Shopspeed**, managed cash receipts, handled stock without barcodes
+
+- 🌍 **Regional Coordinator @ Kectil Program (Asia-2, India)**  
+  → Led youth leadership programs  
+  → Participated in global youth conference in Atlanta, USA (2023)
+
+- 📊 **Data Collection Intern @ FOCUSSRH**  
+  → Conducted customer satisfaction study for Groupe AGL
+
+---
+
+### 🧰 Skills
+
+- 🧑‍💼 Administrative Assistant & Project Coordinator  
+- 🗂️ MS Office, Google Workspace, Documentation & Reporting  
+- 📅 Planning, Scheduling & Team Management  
+- 💬 Bilingual: **French & English**
+
+---
+
+### 🌱 Currently Learning
+
+- 📊 Advanced Data Analysis & Power BI  
+- 🧠 Machine Learning & AI Applications  
+- ⚙️ Full-stack Web Development
+
+---
+
+### 💬 Ask Me About
+
+- How to coordinate tech & business teams  
+- Using AI to streamline business workflows  
+- Building apps with React.js & Python  
+- French-English communication in professional settings
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 koffioffori6@gmail.com  
+- 📱 
+- 📍 Anani, Port-Bouet, Abidjan  
+- 🌐 [LinkedIn (soon)](https://www.linkedin.com/in/offori-christian-charles/)  
+- ✨ Personal Website ([Website](https://tinyurl.com/27eb2t7x))
+
+---
+
+### ⚡ Fun Fact
+
+I once coordinated a youth development project **in India** while preparing for a leadership summit **in the USA**, all while studying **AI in Côte d’Ivoire** 🌍💡
+
+---
+
+> “Discipline, discretion, and service-mindedness drive me — in every code I write, every team I lead.”
+
