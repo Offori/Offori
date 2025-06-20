@@ -68,14 +68,14 @@ I thrive in multidisciplinary environments where I can bridge technology, creati
 - 📧 koffioffori6@gmail.com  
 - 📱 
 - 📍 Anani, Port-Bouet, Abidjan  
-- 🌐 [LinkedIn (soon)](https://www.linkedin.com/in/offori-christian-charles/)  
-- ✨ Personal Website ([Website](https://tinyurl.com/27eb2t7x))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/offori-christian-charles/)  
+- ✨ Personal Website ((https://tinyurl.com/27eb2t7x))
 
 ---
 
 ### ⚡ Fun Fact
 
-I once coordinated a youth development project **in India** while preparing for a leadership summit **in the USA**, all while studying **AI in Côte d’Ivoire** 🌍💡
+I once coordinated a youth development project **in India** while preparing for a leadership summit **in the USA**, all while studying **AI** 🌍💡
 
 ---
 
