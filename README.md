@@ -73,9 +73,9 @@ I thrive in multidisciplinary environments where I can bridge technology, creati
 
 ---
 
-### ⚡ Fun Fact
+### 🌐 Research Paper
 
-I once coordinated a youth development project **in India** while preparing for a leadership summit **in the USA**, all while studying **AI** 🌍💡
+Computer Vision with ML/DL for Crime data Analysis [link](https://www.researchgate.net/publication/385791061_Citation_Koffi_Offori_et_al_2024_Computer_Vision_With_DLML_for_Crime_Data_Analysis_Educational_Administration_Theory_and_Practice) 
 
 ---
 
