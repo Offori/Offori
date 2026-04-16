@@ -5,7 +5,7 @@ Certainly! Here's your CV formatted as a README file, similar to the style you p
 # Offori Koffi
 
 **Contact:**  
-Phone: +225 0716060427  
+Phone: +225 0594208355  
 Email: koffioffori6@gmail.com  
 Location: Koumassi, Abidjan, Côte d'Ivoire  
 LinkedIn: [linkedin.com/in/offori-christian-charles](https://www.linkedin.com/in/offori-christian-charles/)  
