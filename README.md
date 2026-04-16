@@ -1,83 +1,101 @@
-## Hi there 👋 I'm Offori Koffi
-
-🎓 **A passionate AI Engineer | Developer | Team Coordinator | Bilingual (French & English)**  
-📍 Based in Abidjan, Côte d'Ivoire  
-💼 Passionate about AI, frontend development, data analysis, and social impact projects.
+Certainly! Here's your CV formatted as a README file, similar to the style you provided:
 
 ---
 
-### 🚀 About Me
+# Offori Koffi
 
-I am a results-oriented professional with experience in:
-
-- 🧠 Applied Artificial Intelligence (MSc, Parul University – 2022–2024)
-- 💻 Software and Web Development (React.js, Python)
-- 🧾 Office and Stock Management (Nanawax, Shopspeed)
-- 🤝 Team coordination, report writing, and planning
-
-I thrive in multidisciplinary environments where I can bridge technology, creativity, and leadership. I'm always open to collaboration, innovation, and positive impact.
+**Contact:**  
+Phone: +225 0716060427  
+Email: koffioffori6@gmail.com  
+Location: Koumassi, Abidjan, Côte d'Ivoire  
+LinkedIn: [linkedin.com/in/offori-christian-charles](https://www.linkedin.com/in/offori-christian-charles/)  
+Website: [https://tinyurl.com/27eb2t7x](https://tinyurl.com/27eb2t7x)
 
 ---
 
-### 👨‍💻 Projects & Experience
+## About Me
 
-- 🧑‍🎨 **Web Developer Intern @ U&I Interior Design (India)**  
-  → Rebuilt client cost estimation app using **React.js**  
-  → Enhanced productivity through modern UI and close collaboration with designers
-
-- 🏪 **Assistant in Stock & Cash Management @ Nanawax (Ivory Coast)**  
-  → Trained on **Shopspeed**, managed cash receipts, handled stock without barcodes
-
-- 🌍 **Regional Coordinator @ Kectil Program (Asia-2, India)**  
-  → Led youth leadership programs  
-  → Participated in global youth conference in Atlanta, USA (2023)
-
-- 📊 **Data Collection Intern @ FOCUSSRH**  
-  → Conducted customer satisfaction study for Groupe AGL
+AI Engineer with a strong background in data analysis, automation, and software development. Bilingual in French and English, skilled in transforming complex data into actionable insights. Experienced in project coordination, team leadership, and developing innovative AI and web solutions. Committed to ethical practices, confidentiality, and delivering results that support growth and social impact.
 
 ---
 
-### 🧰 Skills
+## Professional Experience
 
-- 🧑‍💼 Administrative Assistant & Project Coordinator  
-- 🗂️ MS Office, Google Workspace, Documentation & Reporting  
-- 📅 Planning, Scheduling & Team Management  
-- 💬 Bilingual: **French & English**
+### Data Analyst & Developer @ AGL  
+*2025 - 2026*  
+- Designed and implemented automated organizational dashboards using PowerApps and Power BI, providing comprehensive visibility of personnel.  
+- Developed real-time dashboards for event management, optimizing guest arrangements.  
+- Created contract management applications to streamline administrative tasks.  
+- Built a Car-Plan dashboard for project tracking and decision-making.  
+- Developed a platform for reporting and analyzing operational dysfunctions.  
+- Produced monthly Power BI reports on operational data, enhancing performance monitoring.  
+- Conducted technological watch and integrated innovative solutions (data, automation, AI).
 
----
+### AI Engineer & Developer @ CIE  
+*2024 - 2025*  
+- Developed an AI solution generating SQL queries and dashboards from natural language, integrating GroqCloud LLM, Metabase, and PostgreSQL via Streamlit.  
+- Improved and debugged Python applications for project cost estimation, collaborating with design and business teams.
 
-### 🌱 Currently Learning
+### Kectil Program Coordinator & Project Manager @ The Kectil Program - USA  
+*2023*  
+- Led international youth leadership projects, coordinating multi-country initiatives and training.  
+- Managed project KPIs, created dashboards, and optimized performance through data analysis.  
 
-- 📊 Advanced Data Analysis & Power BI  
-- 🧠 Machine Learning & AI Applications  
-- ⚙️ Full-stack Web Development
+### IT Trainer @ BIP & Risk Management Trainer Certified 
+*2026 - Present*  
+- Delivering practical training sessions on risk analysis, financial reporting, and data analysis techniques.  
 
----
-
-### 💬 Ask Me About
-
-- How to coordinate tech & business teams  
-- Using AI to streamline business workflows  
-- Building apps with React.js & Python  
-- French-English communication in professional settings
-
----
-
-### 📫 How to Reach Me
-
-- 📧 koffioffori6@gmail.com  
-- 📱 
-- 📍 Anani, Port-Bouet, Abidjan  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/offori-christian-charles/)  
-- ✨ Personal Website ((https://tinyurl.com/27eb2t7x))
+### Internships & Additional Projects  
+- Customer satisfaction study for Groupe AGL  
+- Web development projects, including React.js app rebuilds and process automation  
 
 ---
 
-### 🌐 Research Paper
+## Skills & Technologies
 
-Computer Vision with ML/DL for Crime data Analysis [link](https://www.researchgate.net/publication/385791061_Citation_Koffi_Offori_et_al_2024_Computer_Vision_With_DLML_for_Crime_Data_Analysis_Educational_Administration_Theory_and_Practice) 
+- **Data & BI:** SQL (queries, ETL, data warehousing, dashboards), Power BI, Qlik, Excel avancé, Data Pipelines, Data Warehouse architecture (Bronze/Silver/Gold)  
+- **Programming & AI:** Python (ML/DL, Computer Vision), R (statistics), React.js  
+- **Tools & Platforms:** SharePoint, PowerApps, Streamlit, GitHub, MS Office, Google Workspace  
+- **Languages:** French (native), English (fluent)  
+- **Project Management & Collaboration:** ClickUp, Notion, Teams, Google Meet  
 
 ---
 
-> “Discipline, discretion, and service-mindedness drive me — in every code I write, every team I lead.”
+## Education
 
+**Master's in Artificial Intelligence**  
+Parul University, India | 2022 - 2024
+
+**Bachelor's in Application Development & Computer Science**  
+ITM University, India | 2019 - 2022
+
+---
+
+## Research & Publications
+
+- [Computer Vision with ML/DL for Crime Data Analysis](https://www.researchgate.net/publication/385791061_Citation_Koffi_Offori_et_al_2024_Computer_Vision_With_DLML_for_Crime_Data_Analysis_Educational_Administration_Theory_and_Practice)
+
+- Publications available on ResearchGate & Google Scholar on data analytics, crime detection, and predictive modeling.
+
+---
+
+## Languages
+
+- French: Native  
+- English: Fluent
+
+---
+
+## Interests & Current Learning
+
+- Advanced Data Analysis & Power BI  
+- Machine Learning & AI Applications  
+- Full-stack Web Development
+
+---
+
+## Personal Motto
+
+*Discipline, discretion, and service-mindedness drive me — in every code I write, every team I lead.*
+
+---
